@@ -38,8 +38,8 @@ span[id*=p-]{
 }
 
 .color-path{
-    border: 2px solid #7c8bc4;
-    background-color: yellow !important;
+    border: 2px solid #000000;
+    background-color: rgb(0, 255, 179) !important;
 }
 
 .kill-cell-color{
